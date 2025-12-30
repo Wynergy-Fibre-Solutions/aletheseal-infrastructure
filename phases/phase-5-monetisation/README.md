@@ -1,78 +1,154 @@
-\# Phase 5 — Monetisation Layer
+\# Phase 6 — Pricing and Commercial Tiers
 
 
 
 Objective:
 
-Convert Aletheseal from a configured system into a repeatable, sellable trust product.
+Define clear, defensible pricing that converts Aletheseal from capability into income.
 
 
 
-What is sold:
+Positioning:
 
-A phased, auditable trust stack built on Cloudflare that establishes credibility,
+Aletheseal provides verifiable trust infrastructure, not content creation.
 
-security posture, and verification signals for journalists, investigators,
-
-publishers, and truth-led platforms.
+Pricing reflects risk reduction, credibility, and deployment speed.
 
 
 
-Target users:
+\## Tier 1 — Aletheseal Core Trust
+
+Price: £249 one-off
+
+
+
+For:
 
 \- Independent journalists
 
-\- Investigative publishers
+\- Solo investigators
 
-\- Whistleblower platforms
-
-\- Advocacy organisations
-
-\- Trust-sensitive brands
+\- Small publishers
 
 
 
-What the buyer receives:
+Includes:
 
-\- Hardened DNS and email trust configuration
+\- Domain trust configuration review
 
-\- Live, verifiable web trust headers
+\- DNS, SPF, DKIM, DMARC baseline
 
-\- Evidence-backed setup process
+\- Web trust headers verification
 
-\- Phase-based documentation
+\- Evidence-backed checklist
 
-\- Transferable infrastructure blueprint
-
-
-
-Proof of value:
-
-\- Phase 4 web trust signals verified at runtime
-
-\- DNS, SPF, DKIM, DMARC configured and logged
-
-\- Cloudflare API-driven configuration
-
-\- GitHub-hosted evidence trail
+\- GitHub-documented proof
 
 
 
-Commercial position:
+Outcome:
 
-Aletheseal is not a website.
+A domain that visibly signals legitimacy and technical trust.
 
-It is a trust foundation that can be deployed, demonstrated, and licensed.
+
+
+---
+
+
+
+\## Tier 2 — Aletheseal Pro Trust
+
+Price: £699 one-off
+
+
+
+For:
+
+\- Established publishers
+
+\- Advocacy platforms
+
+\- High-risk reporting projects
+
+
+
+Includes:
+
+\- Everything in Core
+
+\- Cloudflare edge hardening
+
+\- Email reputation alignment
+
+\- Runtime verification walkthrough
+
+\- Phase-based documentation pack
+
+\- Demo-ready trust artefacts
+
+
+
+Outcome:
+
+A demonstrably hardened platform suitable for scrutiny and public exposure.
+
+
+
+---
+
+
+
+\## Tier 3 — Aletheseal Ongoing Assurance
+
+Price: £79 per month
+
+
+
+For:
+
+\- Active investigations
+
+\- Organisations under continuous pressure
+
+
+
+Includes:
+
+\- Periodic trust checks
+
+\- DNS and header drift detection
+
+\- Advisory updates
+
+\- Incident readiness guidance
+
+
+
+Outcome:
+
+Sustained credibility without internal technical burden.
+
+
+
+---
+
+
+
+Commercial notes:
+
+\- Pricing is intentionally simple.
+
+\- Each tier maps directly to completed phases in this repository.
+
+\- Upsell path is clear and non-coercive.
 
 
 
 Next steps:
 
-\- Define pricing tiers
+\- Produce a one-page sales summary.
 
-\- Package onboarding checklist
-
-\- Prepare demo walkthrough using this repository
+\- Create a demo walkthrough using Phase 4 and Phase 5 evidence.
 
 
 
